@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ShaderGraph/Assets/ExampleAssets
+/ShaderGraph/Assets/Presets
+/ShaderGraph/Build/
+/ShaderGraph/Library
+/ShaderGraph/Logs
+/ShaderGraph/obj/Debug
+/ShaderGraph/Temp
+/ShaderGraph/UserSettings
+/ShaderGraph/.vs/ShaderGraph/v17
+/ShaderGraph/.vs/ShaderGraph/FileContentIndex
+**.meta
